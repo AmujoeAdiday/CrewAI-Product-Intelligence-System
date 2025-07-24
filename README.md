@@ -1,10 +1,6 @@
 # CrewAI-Product-Intelligence-System
  AI Team That Thinks Like Your Best Employees to get Insights of Products
 
-🤖 I Built an AI Team That Thinks Like Your Best Employees (AI Agents)
-
-🔥 🔥 My AI Team Thinks Like HR’s Dream Candidate
-
 The Problem Every Business Has
 - Drowning in data but starving for insights. 
 - Manual analysis takes forever, and by the time you get answers, the opportunity is gone.
@@ -22,10 +18,15 @@ What CrewAI Actually Does
 Instead of one AI trying to do everything (and failing), CrewAI lets you build AI teams where each "member" has a specific job - just like your best employees.
 
 Real Results in 3 Minutes
+
 ✅ Found products with 89% growth potential
+
 ✅ Identified peak sales periods automatically
+
 ✅ Generated executive recommendations with specific action steps
+
 ✅ Turned weeks of analysis into minutes of insights
+
 
 
 <img width="1477" height="762" alt="0" src="https://github.com/user-attachments/assets/c9088c6d-3792-43d5-8a4b-3db0fbfa70c8" />
